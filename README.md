@@ -51,5 +51,8 @@
 
 ![lazy loading](https://user-images.githubusercontent.com/40190772/91665493-4a711200-eaf6-11ea-95b3-232718b849f3.gif)
 
+<br /><br /><br />
+
+<img src="https://github.com/AbdallahHemdan/Lazy-Loading/blob/master/4.%20How%20to%20lazy%20load%20images%20with%20Intersection%20Obserrver/lazy%20loading%20v2.gif" />
 
 </div>
