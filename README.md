@@ -18,12 +18,21 @@
 </div>
 
 ## About
-> All codes I wrote while learning about [Intersection Observer API] and its applications and usages
+> All codes I wrote while learning about [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) and its applications and usages
 
 - [x] Introduction to the Intersection Observer JavaScript API
 - [x] How to change your navigation style on scroll using Intersection Observer
-- [ ] Fade and scroll items into view while scrolling using Intersection Observer
-- [ ] How to lazy load images using Intersection Observer
+- [x] Fade and scroll items into view while scrolling using Intersection Observer
+- [x] How to lazy load images using Intersection Observer
+
+## Useful links
+
+- [w3c/IntersectionObserver](https://github.com/w3c/IntersectionObserver)
+- [lozad.js](https://github.com/ApoorvSaxena/lozad.js)
+- [lazysizes](https://github.com/aFarkas/lazysizes)
+- [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+
+
 
 <div align="center">
 
@@ -32,5 +41,15 @@
 <br /><br /><br />
 
 ![navigation-sroll-Intersecion-observer](https://user-images.githubusercontent.com/40190772/91657054-59d46900-eabe-11ea-81c3-488d8d9eccd7.gif)
+
+
+<br /><br /><br />
+
+![Fade and scroll items into view while scrolling](https://user-images.githubusercontent.com/40190772/91664100-3ffe4a80-eaed-11ea-881d-14d9f1ad829a.gif)
+
+<br /><br /><br />
+
+![lazy loading](https://user-images.githubusercontent.com/40190772/91665493-4a711200-eaf6-11ea-95b3-232718b849f3.gif)
+
 
 </div>
