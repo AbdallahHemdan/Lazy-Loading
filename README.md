@@ -23,7 +23,7 @@
 - [x] Introduction to the Intersection Observer JavaScript API
 - [x] How to change your navigation style on scroll using Intersection Observer
 - [x] Fade and scroll items into view while scrolling using Intersection Observer
-- [ ] How to lazy load images using Intersection Observer
+- [x] How to lazy load images using Intersection Observer
 
 <div align="center">
 
@@ -37,6 +37,10 @@
 <br /><br /><br />
 
 ![Fade and scroll items into view while scrolling](https://user-images.githubusercontent.com/40190772/91664100-3ffe4a80-eaed-11ea-881d-14d9f1ad829a.gif)
+
+<br /><br /><br />
+
+![lazy loading](https://user-images.githubusercontent.com/40190772/91665493-4a711200-eaf6-11ea-95b3-232718b849f3.gif)
 
 
 </div>
