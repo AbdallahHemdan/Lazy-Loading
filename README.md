@@ -24,3 +24,13 @@
 - [x] How to change your navigation style on scroll using Intersection Observer
 - [ ] Fade and scroll items into view while scrolling using Intersection Observer
 - [ ] How to lazy load images using Intersection Observer
+
+<div align="center">
+
+![lazy-loading](https://user-images.githubusercontent.com/40190772/91657053-56d97880-eabe-11ea-9380-fb9750053138.gif)
+
+<br /><br /><br />
+
+![navigation-sroll-Intersecion-observer](https://user-images.githubusercontent.com/40190772/91657054-59d46900-eabe-11ea-81c3-488d8d9eccd7.gif)
+
+</div>
