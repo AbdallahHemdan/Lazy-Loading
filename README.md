@@ -25,6 +25,15 @@
 - [x] Fade and scroll items into view while scrolling using Intersection Observer
 - [x] How to lazy load images using Intersection Observer
 
+## Useful links
+
+- [w3c/IntersectionObserver](https://github.com/w3c/IntersectionObserver)
+- [lozad.js](https://github.com/ApoorvSaxena/lozad.js)
+- [lazysizes](https://github.com/aFarkas/lazysizes)
+- [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+
+
+
 <div align="center">
 
 ![lazy-loading](https://user-images.githubusercontent.com/40190772/91657053-56d97880-eabe-11ea-9380-fb9750053138.gif)
