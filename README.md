@@ -31,6 +31,7 @@
 - [lozad.js](https://github.com/ApoorvSaxena/lozad.js)
 - [lazysizes](https://github.com/aFarkas/lazysizes)
 - [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+- [How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
 
 
 
