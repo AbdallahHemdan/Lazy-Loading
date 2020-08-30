@@ -18,7 +18,7 @@
 </div>
 
 ## About
-> All codes I wrote while learning about [Intersection Observer API] and its applications and usages
+> All codes I wrote while learning about [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) and its applications and usages
 
 - [x] Introduction to the Intersection Observer JavaScript API
 - [x] How to change your navigation style on scroll using Intersection Observer
