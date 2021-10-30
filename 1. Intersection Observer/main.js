@@ -2,7 +2,7 @@ const sections = document.querySelectorAll('section');
 
 const options = {
   root: null, // it is the viewport
-  threshold: 0, // threshold is a value from 0 to 1 represent the percentage after it the observer will work
+  threshold: 0, // threshold is a value from 0 to 1 represent what percentage of the target's visibility the observer's callback should be executed
   rootMargin: '-400px', // margin around the entries
 };
 const observer = new IntersectionObserver((entries, observer) => {
